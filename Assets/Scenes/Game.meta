@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Scenes/Game.meta
 guid: b1ae6cfd2d8484b95adaab25b4d91b81
+========
+guid: c1c4a93ec4ed8c94d84712250173c112
+>>>>>>>> Stashed changes:Assets/Scenes/UI.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
